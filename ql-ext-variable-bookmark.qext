@@ -1,0 +1,17 @@
+{
+	"name": "QlikLab - Variable management for bookmarks",
+	"description": "Variable management extension using enigma.js",
+	"type": "visualization",
+	"version": "1.0.0",
+	"preview": "preview.png",
+	"author": "Patric Amatulli",
+	"company": "QlikLab",
+	"homepage": "http://www.qliklab.ch",
+	"email":	"qliklab@gmail.com",
+	"keywords": "qlik-sense, visualization",	
+	"license": "Qliklab",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

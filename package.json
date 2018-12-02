@@ -1,0 +1,19 @@
+{
+  "name": "ql-ext-enigma-bookmark",
+  "version": "1.0.0",
+  "description": "This little extension is showing how you can manage the app state through the Bookmark functionality using the Enigma library.",
+  "main": "bookmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamaxeed/qs-enigma-bookmark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamaxeed/qs-enigma-bookmark/issues"
+  },
+  "homepage": "https://github.com/pamaxeed/qs-enigma-bookmark#readme"
+}
