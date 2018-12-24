@@ -74,10 +74,10 @@ define(function() {
         },
         settings: {
           uses: "settings"
-        }
+        },
+        about
       }     
     },
-    about,
     snapshot: {
 	    canTakeSnapshot: true
     }
