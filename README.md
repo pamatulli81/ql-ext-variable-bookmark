@@ -9,3 +9,5 @@ We are going to use the following methods to achieve what you would like to do:
 * CreateBookmark
 * ApplyBookmark
 * DestroyBookmark
+
+![alt text](https://github.com/pamaxeed/ql-ext-variable-bookmark/blob/master/screenshot.PNG)
